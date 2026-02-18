@@ -10,6 +10,7 @@ ESP32-P4 boards with ESP32-C6 WiFi coprocessors ship with factory firmware that 
 - ✅ **Elecrow ESP32-P4 7" Display**
 - ✅ **Waveshare ESP32-P4-WIFI6-Touch-LCD-4C** (4" Round)
 - ✅ **Waveshare ESP32-P4-WIFI6-Touch-LCD-7B**
+- ✅ **Waveshare ESP32-P4-Module-DEV-KIT**
 - ✅ Any ESP32-P4 board with ESP32-C6 coprocessor via SDIO
 
 ## 📦 What's Included
